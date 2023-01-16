@@ -4,19 +4,19 @@
 
 #### [Marketing Project](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
-Found business opportunities and proposed actions to optimize campaigns for the Brazilian equivalent of DoorDash using **Google Sheets**.
+Found business opportunities and proposed actions to optimize campaigns for the Brazilian equivalent of DoorDash using **Google Sheets**. <br>
 Data Cleaning | Filters | Functions | Formulas | Pivot Tables | Data visualization | VLOOKUP
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/the-most-powerful-weapon-karen-waggoner/)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/the-most-powerful-weapon-karen-waggoner/)
-Created a **Tableau** dashboard for the superintendent, delivering insights about student success 
+Created a **Tableau** dashboard for the superintendent, delivering insights about student success. <br>
 Parameters | Charts | KPIs | Dashboard
 
 ---
 #### [Finance Project]
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>]
-Coming soon... using **SQL**
+Coming soon... using **SQL** <br>
 Filtering | Data aggregation | Grouping | Sorting
 
 ---
