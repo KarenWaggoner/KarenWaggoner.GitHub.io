@@ -2,10 +2,10 @@
 
 ---
 
-[**Marketing Project**](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/) <br>
+[**Marketing Project**<br>
 Found business opportunities and proposed actions to optimize campaigns for the Brazilian equivalent of DoorDash using **Google Sheets**. <br>
 Data Cleaning | Filters | Functions | Formulas | Pivot Tables | Data visualization | VLOOKUP <br>
-[<img src="images/Food_Delivery.png?raw=true"/>](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
+<img src="images/Food_Delivery.png?raw=true"/>](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
 
 ---
 [**Education Project**](https://www.linkedin.com/pulse/the-most-powerful-weapon-karen-waggoner/) <br>
