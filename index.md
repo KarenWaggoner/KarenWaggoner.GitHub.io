@@ -16,7 +16,7 @@ Parameters | Charts | KPIs | Dashboard <br>
 Finance Project <br>
 Using **SQL** ...coming soon <br>
 Filtering | Data aggregation | Grouping | Sorting <br>
-<img src="images/World_Bank.png?raw=true"/>
+<img src="images/Bank_Analysis.png?raw=true"/>
 
 ---
 
