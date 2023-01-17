@@ -7,10 +7,10 @@ Data Cleaning | Filters | Functions | Formulas | Pivot Tables | Data visualizati
 [<img src="images/Food_Delivery.png?raw=true"/>](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
 
 ---
-[Education Project](https://www.linkedin.com/pulse/the-most-powerful-weapon-karen-waggoner/) <br>
+[Education Project](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner) <br>
 Created a **Tableau** dashboard for the superintendent, delivering insights about student success. <br>
 Parameters | Charts | KPIs | Dashboard <br>
-[<img src="images/Education_Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/the-most-powerful-weapon-karen-waggoner/)
+[<img src="images/Education_Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner)
 
 ---
 Finance Project <br>
@@ -23,7 +23,7 @@ Filtering | Data aggregation | Grouping | Sorting <br>
 ### Projects
 
 - [Food Delivery Marketing Analysis](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
-- [Education Analysis](https://www.linkedin.com/pulse/the-most-powerful-weapon-karen-waggoner/)
+- [Education Analysis](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner)
 - World Bank Analysis (coming soon)
 
 
