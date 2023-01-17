@@ -1,4 +1,4 @@
-<img src="images/portfolio_cover.png?raw=true"/>
+<img src="images/portfolioTOP.png?raw=true"/>
 
 ---
 [Marketing Project](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/) <br>
