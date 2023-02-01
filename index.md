@@ -1,6 +1,12 @@
 <img src="images/portfolioTOP.png?raw=true"/>
 
 ---
+[SQL Case Study](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner) <br>
+Answered questions giving insights into customer visiting patterns, the amount customers have spent, and which items are favorites; so the restuarant can deliver a better, more personalized experience for its customers. <br>
+Common Table Expressions | Group By Aggregates | Window Functions for Ranking | Table Joins <br>
+[<img src="images/Education_Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner)
+
+---
 [Education Project](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner) <br>
 Created a **Tableau** dashboard for the superintendent, delivering insights about student success. <br>
 Parameters | Charts | KPIs | Dashboard <br>
