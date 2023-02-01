@@ -1,10 +1,10 @@
 <img src="images/portfolioTOP.png?raw=true"/>
 
 ---
-[SQL Case Study](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner) <br>
+[SQL Case Study](https://www.linkedin.com/pulse/sushi-ramen-curry-oh-my-karen-waggoner) <br>
 Answered questions giving insights into customer patterns, spending, and favorites; so the restuarant can deliver a better, more personalized experience for its customers. <br>
 Common Table Expressions | Group By Aggregates | Window Functions for Ranking | Table Joins <br>
-[<img src="images/Restaurant Insights.png?raw=true"/>](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner)
+[<img src="images/Restaurant Insights.png?raw=true"/>](https://www.linkedin.com/pulse/sushi-ramen-curry-oh-my-karen-waggoner)
 
 ---
 [Education Project](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner) <br>
