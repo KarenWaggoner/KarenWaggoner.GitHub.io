@@ -4,7 +4,7 @@
 [Sushi and Ramen and Curry, Oh My!](https://www.linkedin.com/pulse/sushi-ramen-curry-oh-my-karen-waggoner) <br>
 **SQL:**  Common Table Expressions | Group By Aggregates | Window Functions | Ranking | Table Joins <br>
 [<img src="images/Restaurant Insights.png?raw=true"/>](https://www.linkedin.com/pulse/sushi-ramen-curry-oh-my-karen-waggoner)
-Answered questions giving insights into customer patterns, spending, and favorites; so the restaurant can deliver a better, more personalized experience for its customers. <br> <br>
+Built SQL queries to give insights into customer patterns, spending, and favorites for a better, more personalized experience for customers. <br> <br>
 
 ---
 [The Most Powerful Weapon](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner) <br>
