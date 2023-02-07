@@ -26,7 +26,7 @@ Using **SQL** ...<br> <br>
 
 ---
 
-# [Resume](/files/KGW_02_07_2023.pdf)  |  [Tableau](https://public.tableau.com/app/profile/karen.waggoner)  |  [LinkedIn](https://www.linkedin.com/in/karengwaggoner)
+# <img src="images/doc_icon.png?raw=true"/> [Resume](/files/KGW_02_07_2023.pdf)  |  [Tableau](https://public.tableau.com/app/profile/karen.waggoner)  |  [LinkedIn](https://www.linkedin.com/in/karengwaggoner)
 
 ---
 
