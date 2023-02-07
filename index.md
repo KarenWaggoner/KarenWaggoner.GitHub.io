@@ -28,7 +28,7 @@ Using **SQL** ...<br> <br>
 
 ### Links
 
-- [Resume](/Resume)
+- [Resume] (coming soon)
 - [Tableau](https://public.tableau.com/app/profile/karen.waggoner)
 
 
