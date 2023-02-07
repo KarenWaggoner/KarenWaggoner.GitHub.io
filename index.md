@@ -22,7 +22,7 @@ Found business opportunities and proposed actions to optimize campaigns for the 
 Finance Project coming soon <br>
 **SQL:**  Filtering | Data aggregation | Grouping | Sorting <br>
 <img src="images/Bank_Analysis.png?raw=true"/> 
-Using **SQL** ...<br> <br>
+Using SQL ...<br> <br>
 
 ---
 
