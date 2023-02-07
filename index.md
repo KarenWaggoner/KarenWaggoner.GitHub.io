@@ -26,11 +26,9 @@ Using **SQL** ...<br> <br>
 
 ---
 
-### Links
-
-- [Resume](/files/KGW_02_07_2023.pdf)
-- [Tableau](https://public.tableau.com/app/profile/karen.waggoner)
-
+# [Resume](/files/KGW_02_07_2023.pdf)
+# [Tableau](https://public.tableau.com/app/profile/karen.waggoner)
+# [LinkedIn](www.linkedin.com/in/karengwaggoner)
 
 ---
 
