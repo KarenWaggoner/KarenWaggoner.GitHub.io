@@ -26,11 +26,10 @@ Using **SQL** ...<br> <br>
 
 ---
 
-### Projects
+### Links
 
-- [Education Analysis](https://www.linkedin.com/pulse/most-powerful-weapon-karen-waggoner)
-- [Food Delivery Marketing Analysis](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
-- World Bank Analysis (coming soon)
+- [Resume](/Resume)
+- [Tableau](https://public.tableau.com/app/profile/karen.waggoner)
 
 
 ---
