@@ -26,7 +26,9 @@ Using SQL ...<br> <br>
 
 ---
 
-##      <img src="images/doc_icon.png?raw=true"/>  [Resume](/files/KGW_02_07_2023.pdf)     <img src="images/tableau_icon.png?raw=true"/>  [Tableau](https://public.tableau.com/app/profile/karen.waggoner)     <img src="images/linkedin_icon.png?raw=true"/>  [LinkedIn](https://www.linkedin.com/in/karengwaggoner)
+##  <img src="images/doc_icon.png?raw=true"/>  [Resume](/files/KGW_02_07_2023.pdf)     
+##  <img src="images/tableau_icon.png?raw=true"/>  [Tableau](https://public.tableau.com/app/profile/karen.waggoner)     
+##  <img src="images/linkedin_icon.png?raw=true"/>  [LinkedIn](https://www.linkedin.com/in/karengwaggoner)
 
 ---
 
