@@ -9,7 +9,7 @@ Created a **slide deck** delivering insights from the top 50 Ravelry project yar
 ---
 [Unraveling the Top 50 Yarns of 2022](/files/yarn_deck.pdf) <br>
 **Google Sheets:**  Data Cleaning | Filters | VLOOKUP | Nested IF statments | Pivot Tables | Data visualization <br>
-<img src="images/unreaveling_yarn.png?raw=true"/>
+<img src="images/unraveling_yarn.png?raw=true"/>
 Created a **slide deck** delivering insights from the top 50 Ravelry project yarns. The data was collected, cleaned, and visualized in **Google Sheets**. <br> <br>
 
 ---
