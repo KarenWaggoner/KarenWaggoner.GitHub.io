@@ -25,12 +25,6 @@ Created a **Tableau** dashboard for the superintendent, delivering insights abou
 Found business opportunities and proposed actions to optimize campaigns for the Brazilian equivalent of DoorDash using **Google Sheets**. <br> <br>
 
 ---
-Finance Project coming soon <br>
-**SQL:**  Filtering | Data aggregation | Grouping | Sorting <br>
-<img src="images/Bank_Analysis.png?raw=true"/> 
-Using SQL ...<br> <br>
-
----
 
 # [<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/KGW_02_07_2023.pdf)     
 # [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/karen.waggoner) [Tableau](https://public.tableau.com/app/profile/karen.waggoner)     
