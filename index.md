@@ -1,7 +1,7 @@
 <img src="images/portfolioTOP.png?raw=true"/>
 
 ---
-Investing in Health: World Bank COVID-19 Lending <br>
+(coming soon) Investing in Health: World Bank COVID-19 Lending <br>
 **SQL:**  Filtering | Data aggregation | Grouping | Sorting <br>
 <img src="images/Bank_Analysis.png?raw=true"/> 
 Using SQL ...<br> <br>
