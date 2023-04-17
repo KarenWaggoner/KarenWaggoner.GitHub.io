@@ -4,7 +4,7 @@
 (coming soon) Investing in Health: World Bank COVID-19 Lending <br>
 **SQL:**  Filtering | Data aggregation | Grouping | Sorting <br>
 <img src="images/Bank_Analysis.png?raw=true"/> 
-Using SQL ...<br> <br>
+Investigated IDA World Bank loans using **SQL**, gaining insights to their pandemic response. <br> <br>
 
 ---
 [Unraveling the Top 50 Yarns of 2022](/files/yarn_deck.pdf) <br>
