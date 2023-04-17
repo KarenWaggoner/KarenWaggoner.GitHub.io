@@ -1,6 +1,12 @@
 <img src="images/portfolioTOP.png?raw=true"/>
 
 ---
+Investing in Health: World Bank COVID-19 Lending <br>
+**SQL:**  Filtering | Data aggregation | Grouping | Sorting <br>
+<img src="images/Bank_Analysis.png?raw=true"/> 
+Using SQL ...<br> <br>
+
+---
 [Unraveling the Top 50 Yarns of 2022](/files/yarn_deck.pdf) <br>
 **Google Sheets:**  Data Cleaning | Filters | VLOOKUP | Nested IF statments | Pivot Tables | Data visualization <br>
 [<img src="images/yarn_insights.png?raw=true"/>](/files/yarn_deck.pdf)
