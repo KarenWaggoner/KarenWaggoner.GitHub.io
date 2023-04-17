@@ -8,7 +8,7 @@ Investigated IDA World Bank loans using **SQL**, gaining insights to their pande
 
 ---
 [Unraveling the Top 50 Yarns of 2022](/files/yarn_deck.pdf) <br>
-**Google Sheets:**  Data Cleaning | Filters | VLOOKUP | Nested IF Statements | Pivot Tables | Data Visualization <br>
+**Google Sheets:**  Data Collection | Data Cleaning | Filters | VLOOKUP | Nested IF Statements | Pivot Tables | Data Visualization <br>
 [<img src="images/yarn_insights.png?raw=true"/>](/files/yarn_deck.pdf)
 Created a **slide deck** delivering insights from the top 50 Ravelry project yarns. The data was collected, cleaned, and visualized in **Google Sheets**. <br> <br>
 
