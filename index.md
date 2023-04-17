@@ -2,13 +2,13 @@
 
 ---
 (coming soon) Investing in Health: World Bank COVID-19 Lending <br>
-**SQL:**  Filtering | Data aggregation | Grouping | Sorting <br>
+**SQL:**  Filtering | Data Aggregation | Grouping | Sorting <br>
 <img src="images/Bank_Analysis.png?raw=true"/> 
 Investigated IDA World Bank loans using **SQL**, gaining insights to their pandemic response. <br> <br>
 
 ---
 [Unraveling the Top 50 Yarns of 2022](/files/yarn_deck.pdf) <br>
-**Google Sheets:**  Data Cleaning | Filters | VLOOKUP | Nested IF statments | Pivot Tables | Data visualization <br>
+**Google Sheets:**  Data Cleaning | Filters | VLOOKUP | Nested IF Statments | Pivot Tables | Data Visualization <br>
 [<img src="images/yarn_insights.png?raw=true"/>](/files/yarn_deck.pdf)
 Created a **slide deck** delivering insights from the top 50 Ravelry project yarns. The data was collected, cleaned, and visualized in **Google Sheets**. <br> <br>
 
@@ -26,7 +26,7 @@ Created a **Tableau** dashboard for the superintendent, delivering insights abou
 
 ---
 [So Who's Dining on Delivery?](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/) <br>
-**Google Sheets:**  Data Cleaning | Filters | Functions | Formulas | Pivot Tables | Data visualization | VLOOKUP <br>
+**Google Sheets:**  Data Cleaning | Filters | Functions | Formulas | Pivot Tables | Data Visualization | VLOOKUP <br>
 [<img src="images/Food_Delivery.png?raw=true"/>](https://www.linkedin.com/pulse/so-whos-dining-delivery-karen-waggoner/)
 Found business opportunities and proposed actions to optimize campaigns for the Brazilian equivalent of DoorDash using **Google Sheets**. <br> <br>
 
