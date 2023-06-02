@@ -2,12 +2,6 @@
 
 
 ---
-[Unraveling the Top 50 Yarns of 2022](/files/yarn_deck.pdf) <br>
-**Google Sheets:**  Data Collection | Data Cleaning | Filters | VLOOKUP | Nested IF Statements | Pivot Tables | Data Visualization <br>
-[<img src="images/yarn_insights.png?raw=true"/>](/files/yarn_deck.pdf)
-Created a **slide deck** delivering insights from the top 50 Ravelry project yarns. The data was collected, cleaned, and visualized in **Google Sheets**. <br> <br>
-
----
 [Sushi and Ramen and Curry, Oh My!](https://www.linkedin.com/pulse/sushi-ramen-curry-oh-my-karen-waggoner) <br>
 **SQL:**  Common Table Expressions | Group By Aggregates | Window Functions | Ranking | Table Joins <br>
 [<img src="images/Restaurant Insights.png?raw=true"/>](https://www.linkedin.com/pulse/sushi-ramen-curry-oh-my-karen-waggoner)
@@ -26,7 +20,12 @@ Created a **Tableau** dashboard for the superintendent, delivering insights abou
 Found business opportunities and proposed actions to optimize campaigns for the Brazilian equivalent of DoorDash using **Google Sheets**. <br> <br>
 
 ---
+[Unraveling the Top 50 Yarns of 2022](/files/yarn_deck.pdf) <br>
+**Google Sheets:**  Data Collection | Data Cleaning | Filters | VLOOKUP | Nested IF Statements | Pivot Tables | Data Visualization <br>
+[<img src="images/yarn_insights.png?raw=true"/>](/files/yarn_deck.pdf)
+Created a **slide deck** delivering insights from the top 50 Ravelry project yarns. The data was collected, cleaned, and visualized in **Google Sheets**. <br> <br>
 
+---
 # [<img src="images/doc_icon.png?raw=true"/>](/files/KGW_02_07_2023.pdf) [Resume](/files/KarenWaggoner_DataAnalyst_052023.pdf)     
 # [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/karen.waggoner) [Tableau](https://public.tableau.com/app/profile/karen.waggoner)     
 # [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/karengwaggoner) [LinkedIn](https://www.linkedin.com/in/karengwaggoner)
