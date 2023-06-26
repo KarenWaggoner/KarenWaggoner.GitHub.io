@@ -1,5 +1,10 @@
 <img src="images/portfolioTOP.png?raw=true"/>
 
+---
+[Investing in Health:  IDA and COVID-19](https://www.linkedin.com/pulse/investing-health-ida-covid-19-karen-waggoner/) <br>
+**SQL:**  Data Cleansing | Common Table Expressions | CASE Statements | Subqueries | Window Functions <br>
+[<img src="images/Bank_Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/investing-health-ida-covid-19-karen-waggoner/)
+Investigated IDA World Bank loans using **SQL** gaining insights into their pandemic response. <br> <br>
 
 ---
 [Sushi and Ramen and Curry, Oh My!](https://www.linkedin.com/pulse/sushi-ramen-curry-oh-my-karen-waggoner) <br>
