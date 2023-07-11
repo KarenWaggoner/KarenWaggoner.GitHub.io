@@ -31,9 +31,7 @@ Found business opportunities and proposed actions to optimize campaigns for the 
 Created a **slide deck** delivering insights from the top 50 Ravelry project yarns. The data was collected, cleaned, and visualized in **Google Sheets**. <br> <br>
 
 ---
-# [<img src="images/doc_icon.png?raw=true"/>](/files/KarenWaggoner_DataAnalyst_June26.pdf) [Resume](/files/KarenWaggoner_DataAnalyst_June26.pdf)     
-# [<img src="images/tableau_icon.png?raw=true"/>](https://public.tableau.com/app/profile/karen.waggoner) [Tableau](https://public.tableau.com/app/profile/karen.waggoner)     
-# [<img src="images/linkedin_icon.png?raw=true"/>](https://www.linkedin.com/in/karengwaggoner) [LinkedIn](https://www.linkedin.com/in/karengwaggoner)
+
 
 
 
