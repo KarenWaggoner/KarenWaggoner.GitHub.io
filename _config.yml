@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
    <a href="https://www.linkedin.com/in/karengwaggoner/"><img src="images/linkedin_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp;&nbsp; 
    <a href="https://public.tableau.com/app/profile/karen.waggoner"><img src="images/tableau_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="/files/KarenWaggoner_DataAnalyst_June26.pdf"><img src="images/resume_icon.png?raw=true"/></p>&nbsp;&nbsp;&nbsp;&nbsp;
-   <p align="center"><a href="https://github.com/KarenWaggoner/"><img src="images/github_icon.png?raw=true"/></p>
+   <a href="https://github.com/KarenWaggoner/"><img src="images/github_icon.png?raw=true"/></p>
    <br>
    <br>
 theme: jekyll-theme-minimal
