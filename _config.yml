@@ -1,10 +1,15 @@
 title: Karen Waggoner # your name (or website title) here
 logo: "/images/profile_pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+   <p align = "center">
    Integrity-Driven Data Analyst 
    <br>
+   <p align = "center">
    Cleaning & Visualizing with SQL, Excel, & Tableau
    <br>
+   <p align="center">
+   <a href="https://www.linkedin.com/in/karengwaggoner/"><img src="images/linkedin_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp;&nbsp; 
+   <a href="https://public.tableau.com/app/profile/karen.waggoner"><img src="images/tableau_icon.png?raw=true"/>&nbsp;&nbsp;&nbsp;&nbsp;
    <br>
    <br>
 theme: jekyll-theme-minimal
