@@ -29,11 +29,3 @@ Found business opportunities and proposed actions to optimize campaigns for the 
 **Google Sheets:**  Data Collection | Data Cleaning | Filters | VLOOKUP | Nested IF Statements | Pivot Tables | Data Visualization <br>
 [<img src="images/yarn_insights.png?raw=true"/>](/files/yarn_deck.pdf)
 Created a **slide deck** delivering insights from the top 50 Ravelry project yarns. The data was collected, cleaned, and visualized in **Google Sheets**. <br> <br>
-
-
-
-
-
-
-
-
